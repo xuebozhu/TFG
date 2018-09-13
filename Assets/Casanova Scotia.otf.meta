@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 179b171f89ef8824eaf4f39cf06cee82
+timeCreated: 1535546443
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Casanova Scotia
+  fontNames:
+  - Casanova Scotia
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
